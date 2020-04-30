@@ -21,7 +21,7 @@ Core Values are to provide the best services at the door step of customer with t
 - User can add product reviews 
 - Integrated Paypal Payment Module and many more...
 
-### Screens of the Dream&Decor
+### Screens of the Lets Pot It store
 
 ## - Home Page Screen 
 ![image](https://github.com/neeta-tm/images/blob/master/letspotit/letspotit-HomePage.png)
